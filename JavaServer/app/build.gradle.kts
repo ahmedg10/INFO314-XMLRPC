@@ -24,6 +24,8 @@ dependencies {
     implementation("com.google.guava:guava:31.1-jre")
 
     implementation("com.sparkjava:spark-core:2.9.4")
+    implementation ("org.slf4j:slf4j-simple:1.7.32")
+
 }
 
 // Apply a specific Java toolchain to ease working on different environments.
