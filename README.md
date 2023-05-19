@@ -1,6 +1,5 @@
-# INFO314-XMLRPC
-A homework assignment for my INFO314 course.
-
+# XMLRPC
+Building XML-RPC Client and Server Code to Communicate with eah other
 
 
 ## Interoperability
